@@ -1,0 +1,5 @@
+{
+  "name": "Fares Al-Sahraa Estate Gen",
+  "description": "A professional real estate offer generator for Fares Al-Sahraa Real Estate, using Gemini to craft compelling Arabic property ads based on structured input data.",
+  "requestFramePermissions": []
+}
